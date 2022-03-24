@@ -1,0 +1,42 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Bea",
+      "surnames": "Jimenez",
+      "description": "I combine both a quick grasp of the big picture and attention to detail. I love improving processes and doing more with less. And I deeply hate talking about myself."
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/beatrizjimenez/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/beajmnz"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/beajmnz"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.beajimenez.net"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/beatrizjimenez/"
+        }
+      ]
+    }
+  }
+}
