@@ -8,7 +8,15 @@
     "profile": {
       "name": "Bea",
       "surnames": "Jimenez",
-      "description": "I combine both a quick grasp of the big picture and attention to detail. I love improving processes and doing more with less. And I deeply hate talking about myself."
+      "title": "",
+      "description": "I combine both a quick grasp of the big picture and attention to detail. I love improving processes and doing more with less. And I deeply hate talking about myself.",
+      "avatar": {
+        "alt": "Beatriz Jimenez.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/9a3dc85f-be45-4bf7-bf32-a7c1a5257835_beatriz-jimenez.jpeg"
+      },
+      "location": {
+        "notes": ""
+      }
     },
     "relevantLinks": [
       {
