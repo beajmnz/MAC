@@ -148,7 +148,7 @@
       "preferredRoles": [
         "Business Operations & Strategy",
         "Director / General Manager",
-        "Operations Generalist"
+        "Project Manager & Delivery Manager"
       ]
     },
     "status": "searchingActively",
@@ -159,6 +159,12 @@
     }
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Python",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "COO/Head of Operations in a start-up involved in international business.",
     "goodPractices": "Look up stuff very quickly on stackoverflow"
   }
