@@ -8,8 +8,8 @@
     "profile": {
       "name": "Bea",
       "surnames": "Jimenez",
-      "title": "How can I help you?",
-      "description": "I combine both a quick grasp of the big picture and attention to detail. I love improving processes and doing more with less. Helping others do their jobs is what motivates me. And I deeply hate talking about myself.",
+      "title": "Global COO & Chief of Staff | Tech & Operations Executive | Scaling 0 to 1,500+ | Telecommunications Engineer & AI Leader / TRGCON Producer / MyBooking.es Advisor / TeachT3ch Mentor / #soyPromociona",
+      "description": "Soy una líder ejecutiva de operaciones que transforma visiones corporativas ambiciosas en realidades operativas repetibles y escalables. Con más de 20 años de trayectoria liderando consultoría tecnológica, start-ups y operaciones internacionales, me especializo en construir las estructuras, sistemas y equipos necesarios para permitir que las empresas crezcan de manera rentable.A lo largo de mi carrera, he destacado en la intersección de tres pilares clave:🎛️ Orquestación Estratégica y Alianza Ejecutiva: Como COO Global y Chief of Staff del CEO en SNGULAR, dirigí las operaciones globales para más de 1.500 profesionales. Actué como integradora clave entre áreas corporativas críticas (Oficina del CTO, PMO, People) y lideré con éxito la compleja integración de 4 compañías mediante procesos de M&amp;A.⚙️ Rigor Técnico y Analítico: Soy Ingeniera de Telecomunicaciones por la UPM y cuento con un EMBA por el IE Business School. No solo gestiono procesos, los automatizo. Aprovecho mi formación en ciencia de datos y mi certificación como Google Generative AI Leader para diseñar cuadros de mando automatizados, optimizar cuentas de resultados (P&amp;L) y eliminar la fricción operativa.🚀 Escalabilidad desde Cero (0 a 100): Cuento con una sólida mentalidad de \"propietaria\" (owner). Fundé el departamento de Impresión 3D y establecí la fabricación desde cero en BQ, firmé acuerdos de distribución internacional en 48 países para Bultaco Motors y lideré equipos multidisciplinares de más de 30 personas en scale-ups de ritmo acelerado como AUTO1 Group.Me entusiasman las culturas de alto rendimiento que valoran el impacto real, la transparencia y la ejecución implacable.Especialidades: Operaciones Globales | Chief of Staff | Integración M&amp;A | Expansión Internacional | Optimización de Procesos | Despliegue de Productos Técnicos | Estrategia de Datos y Automatización.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/9a3dc85f-be45-4bf7-bf32-a7c1a5257835_beatriz-jimenez.jpeg",
         "alt": "Beatriz Jimenez.jpeg"
@@ -43,6 +43,163 @@
       {
         "type": "other",
         "URL": "https://www.beajimenez.net"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "SNGULAR"
+        },
+        "roles": [
+          {
+            "name": "Global COO & Chief of Staff to the CEO",
+            "startDate": "2021-09-01",
+            "finishDate": "2026-03-01",
+            "challenges": [
+              {
+                "description": "- Liderazgo y escala: Dirigí las operaciones globales y actué como socia estratégica del CEO, supervisando divisiones corporativas clave (Operaciones, People, PMO, Comunicación Interna, Oficina del CTO) para una organización de ~1.500 profesionales en España, EE. UU. y México. - Integración M&A: Lideré con éxito la integración posterior a la fusión de 4 compañías adquiridas, unificando los ritmos de gobernanza y estableciendo modelos operativos escalables. - Control financiero: Optimicé los sistemas de reporte de costes e ingresos por unidad de negocio, incrementando drásticamente la visibilidad financiera y el control estratégico a nivel de comité ejecutivo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Endado"
+        },
+        "roles": [
+          {
+            "name": "Directora de Negocio",
+            "startDate": "2020-11-01",
+            "finishDate": "2021-04-01",
+            "challenges": [
+              {
+                "description": "- Liderazgo comercial estratégico: Dirigí las operaciones comerciales globales, la estrategia de compras y la gestión de categorías, con impacto directo en los márgenes y la optimización del inventario de la compañía. - Ingeniería de procesos: Diseñé e implanté flujos de trabajo operativos transversales para la integración de proveedores, control de márgenes y actualización automatizada de tarifas. - Automatización de datos: Desarrollé y automaticé un sistema de análisis de datos para cruzar listas de precios de proveedores con tarifas internas, reduciendo drásticamente errores manuales y protegiendo el margen bruto."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AUTO1 Group"
+        },
+        "roles": [
+          {
+            "name": "Directora de Operaciones Comerciales (ES), Análisis de Negocio, Tecnología y Producto, Iberia",
+            "startDate": "2017-12-01",
+            "finishDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "- Liderazgo de equipos multidisciplinares: Dirigí y escalé un equipo de alto rendimiento de 32 profesionales en las áreas de Posventa, Atención al Cliente, Soporte IT, Calidad de Base de Datos y Análisis de Negocio para España y Portugal. - Innovación de producto y crecimiento: Diseñé estratégicamente y lancé al mercado líneas de producto clave generadoras de ingresos como \"Import Service\" y \"Reactivation\", impulsando nuevas vías de facturación y retención de clientes. - Automatización y analítica: Desarrollé y automaticé el reporting estratégico para el comité de dirección utilizando Python y Google Apps Script, acelerando la toma de decisiones basada en datos. - Modernización operativa: Rediseñé la infraestructura de comunicaciones y soporte IT para delegaciones y peritos en Iberia, optimizando los KPIs de resolución de incidencias, reclamaciones y rendimiento de pagos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Bultaco Motors"
+        },
+        "roles": [
+          {
+            "name": "Directora de Posventa y Operaciones Comerciales",
+            "startDate": "2014-02-01",
+            "finishDate": "2017-12-01",
+            "challenges": [
+              {
+                "description": "- Expansión global: Lideré el ciclo comercial internacional completo, logrando expandir la presencia de mercado de la compañía mediante la firma de los primeros distribuidores en 48 países. - Negociación estratégica: Negocié y aseguré líneas de crédito mayoristas y minoristas internacionales con entidades financieras líderes como BNP Paribas (Cetelem) y Mapfre para apoyar el crecimiento de la red de distribución."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "bq"
+        },
+        "roles": [
+          {
+            "name": "Directora de Innovación y Robótica",
+            "startDate": "2013-05-01",
+            "finishDate": "2013-12-01",
+            "challenges": [
+              {
+                "description": " - Creación desde cero: Fundé el Departamento de Impresión 3D de la marca desde cero, estableciendo la fabricación local y logrando los derechos de distribución exclusiva con MakerBot (#1 mundial)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grupo Tecopy"
+        },
+        "roles": [
+          {
+            "name": "Directora de Internacional",
+            "startDate": "2012-01-01",
+            "finishDate": "2013-05-01",
+            "challenges": [
+              {
+                "description": "Responsable de operaciones internacionales, en dependencia del Director General del Grupo: - Remodelación del Departamento Internacional en España, revisión estratégica, diseño de procesos de creación de documentación comercial multilingüe, generación de procesos de detección de oportunidades y preparación de EOIs y ofertas, coordinando las diferentes empresas del Grupo. - Gestión económica del presupuesto del departamento. Supervisión de las sedes internacionales. - Negociación de acuerdos con socios potenciales internacionales. Análisis de inversiones y/o implantación exterior.  Logros: - Creación de oficinas en Bulgaria y Colombia. Establecimiento de procesos para sistematizar la búsqueda de socios y presentación de ofertas para licitaciones internacionales. Presentación de 54 ofertas y entrada en 7 listas cortas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra Sistemas"
+        },
+        "roles": [
+          {
+            "name": "Jefa de Proyectos, adjunta al Director Internacional y Civil",
+            "startDate": "2009-03-01",
+            "finishDate": "2011-12-01",
+            "challenges": [
+              {
+                "description": "Responsable de Postventa, adjunta al Director Internacional y Civil. Responsable de 10 proyectos de mantenimiento de sistemas de Seguridad Nacional y Defensa con un presupuesto de 3.5 M€: - Dirección y gestión de proyectos, control presupuestario y de calidad, supervisión de contratos. - Elaboración de ofertas y gestión de la cartera de clientes (administraciones públicas). - Definición de planes de mantenimiento preventivo y correctivo y stocks de repuestos, recepción de incidencias (averías de equipos), priorización para su reparación y atención al cliente. - Negociación con proveedores (israelíes, canadienses, británicos, americanos) y clientes internacionales (italianos, turcos, rumanos), nacionales, y entidades gubernamentales. - Coordinación de equipos técnicos (ingenieros de sistemas, técnicos electrónicos, mecánicos) y con otros departamentos (óptica, administración, legal, proyectos Aire, Tierra y Armada) - Supervisión y aprobación de compensaciones industriales (offsets) frente a ISDEFE y colaboración en el establecimiento de acuerdos estratégicos de otras secciones de la división."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra Sistemas"
+        },
+        "roles": [
+          {
+            "name": "Ingeniera Senior",
+            "startDate": "2005-06-01",
+            "finishDate": "2009-02-01",
+            "challenges": [
+              {
+                "description": "- Ingeniera Senior (desde Octubre 2007), realizando tareas en relación a ingeniería de sistemas,  I+D sobre futuros estándares de mantenimiento automático, supervisión de tareas y de desarrollo en tiempo y calidad, colaboración en la elaboración de ofertas. - Ingeniera de Sistemas (desde Junio 2005), realizando tareas de diseño e implementación de sistemas de mantenimiento automático, responsable del módulo de tiempo real del proyecto SAMe-MIDS, participación en proyectos experimentales del departamento."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SONY International (Stuttgart) GmbH"
+        },
+        "roles": [
+          {
+            "name": "Ingeniero I+D",
+            "startDate": "2002-10-01",
+            "finishDate": "2005-06-01",
+            "challenges": [
+              {
+                "description": "- Ingeniera (Software Development Group, Visual Technology Department) (desde Agosto 2004), desarrollando sistemas de mejora de video para SONY Vaio y herramientas de conversión de formatos de video. Responsable del sistema de compilación y prueba automática de los filtros y medidas de calidad. - Ingeniera I+D (Tangible User Interfaces Group, Advanced Software Lab.) (desde Octubre 2003). Miembro del proyecto HapticChameleon y del proyecto europeo MIAMM, diseño de interfaces táctiles empleando robots, tests de hardware, formación de los nuevos compañeros en la programación de los robots. Participante en reuniones de seguimiento del proyecto como representante de SONY. - Estudiante (Werkstudentin) (desde Enero 2003), realizando funciones de diseño e implementación de interfaces táctiles. - Becaria (desde Octubre 2002), realizando prácticas obligatorias para el máster INFOTECH. I+D sobre sistemas de control táctil."
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -83,6 +240,12 @@
       },
       {
         "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Google Sheets",
           "type": "technology"
         }
@@ -90,6 +253,12 @@
       {
         "skill": {
           "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
           "type": "technology"
         }
       },
@@ -106,24 +275,56 @@
         }
       }
     ],
-    "softSkills": [
+    "studies": [
       {
-        "skill": {
-          "name": "Attention to detail",
-          "type": "practice"
-        }
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Data Science Bootcamp",
+        "startDate": "2021-01-01",
+        "institution": {
+          "name": "IE University Exponential Learning"
+        },
+        "finishDate": "2021-01-01"
       },
       {
-        "skill": {
-          "name": "Listening ability",
-          "type": "practice"
-        }
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Executive MBA",
+        "startDate": "2010-01-01",
+        "institution": {
+          "name": "IE (Instituto de Empresa)"
+        },
+        "finishDate": "2011-01-01"
       },
       {
-        "skill": {
-          "name": "Team player",
-          "type": "practice"
-        }
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero de Telecomunicación",
+        "startDate": "1997-01-01",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid"
+        },
+        "finishDate": "2003-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "MSc Infotech",
+        "startDate": "2001-01-01",
+        "institution": {
+          "name": "University of Stuttgart"
+        },
+        "finishDate": "2003-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Programa Ejecutivo para Mujeres en la Alta Dirección (Promociona)",
+        "startDate": "2024-06-01",
+        "institution": {
+          "name": "Esade"
+        },
+        "finishDate": "2025-07-01"
       }
     ]
   },
