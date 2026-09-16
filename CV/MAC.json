@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,13 +11,22 @@
       "title": "How can I help you?",
       "description": "I combine both a quick grasp of the big picture and attention to detail. I love improving processes and doing more with less. Helping others do their jobs is what motivates me. And I deeply hate talking about myself.",
       "avatar": {
-        "alt": "Beatriz Jimenez.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/9a3dc85f-be45-4bf7-bf32-a7c1a5257835_beatriz-jimenez.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/9a3dc85f-be45-4bf7-bf32-a7c1a5257835_beatriz-jimenez.jpeg",
+        "alt": "Beatriz Jimenez.jpeg"
       },
       "location": {
-        "notes": "Madrid"
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
+    "interestingFacts": [
+      {
+        "topic": "Automotive freak and expert",
+        "fact": "I have worked for 10+ years in the automotive industry, and owned 5 smart fortwo (the latest two, electric ones)"
+      }
+    ],
     "relevantLinks": [
       {
         "type": "linkedin",
@@ -35,11 +44,81 @@
         "type": "other",
         "URL": "https://www.beajimenez.net"
       }
-    ],
-    "interestingFacts": [
+    ]
+  },
+  "knowledge": {
+    "languages": [
       {
-        "topic": "Automotive freak and expert",
-        "fact": "I have worked for 10+ years in the automotive industry, and owned 5 smart fortwo (the latest two, electric ones)"
+        "name": "DE",
+        "fullName": "Alemán",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "IT",
+        "fullName": "Italiano",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "PT",
+        "fullName": "Portugués",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Google Apps Script",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Sheets",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Zendesk",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Listening ability",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -47,10 +126,30 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/beatrizjimenez/"
+          "URL": "https://www.linkedin.com/in/beatrizjimenez/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/beajmnz",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/beajmnz",
+          "type": "twitter"
         }
       ]
-    }
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Business Operations & Strategy",
+        "Director / General Manager",
+        "Operations Generalist"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "COO/Head of Operations in a start-up involved in international business.",
+    "goodPractices": "Look up stuff very quickly on stackoverflow"
   }
 }
