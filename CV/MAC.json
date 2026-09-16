@@ -146,7 +146,12 @@
         "Operations Generalist"
       ]
     },
-    "status": "openToOffers"
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
   },
   "manfredSpecificData": {
     "desiredJobDescription": "COO/Head of Operations in a start-up involved in international business.",
