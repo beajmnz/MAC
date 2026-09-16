@@ -59,6 +59,11 @@
         "level": "Full professional proficiency"
       },
       {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
         "name": "IT",
         "fullName": "Italiano",
         "level": "Professional working proficiency"
